@@ -273,9 +273,11 @@ Aamish Ahmad · MSc Data Science 2026
 
 ---
 
-## Preprint
-DOI: https://doi.org/10.17605/OSF.IO/7GU29
+## Research & Preprint
 
+Paper: https://apartresearch.com/project/trajectory-blindness-detection-latency-in-conversational-monitoring-2jaf
+
+DOI: https://doi.org/10.17605/OSF.IO/7GU29
 ## Author
 
 **Aamish Ahmad**  
